@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 dummy111
 dummy222
 ok
 dkdkdkd
-=======
-dummyTest
-dummy222
->>>>>>> branchTest
